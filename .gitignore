@@ -1,0 +1,9 @@
+# for single files
+#log.txt
+
+#for directories
+/dir2
+
+# for removing all txt files
+*.txt
+*.json
